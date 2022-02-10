@@ -2,11 +2,10 @@ version: '3.8'
 
 services:
   selenium:
-    image: selenium/standalone-chrome
+    image: deinchristian/rpi-selenium-node-chrome:3.14.0
     ports:
       - 4444:4444
     restart: always
-
 
   app:
     build:
