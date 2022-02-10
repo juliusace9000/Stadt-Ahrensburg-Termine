@@ -3,4 +3,3 @@ pillow
 requests
 python-telegram-bot
 cryptography==2.8
-install --upgrade pip
