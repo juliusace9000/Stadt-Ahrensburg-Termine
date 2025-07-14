@@ -4,7 +4,7 @@ import json
 import time
 from telegram.ext import *
 
-token = "5150848048:AAE0znIVs1nJ9Gga6Ho2xxvi8awSUUuL-ic"
+token = "Geheim"
 
 url = f"https://api.telegram.org/bot{token}/sendMessage"
 #message = requests.post(url, params=params)
